@@ -15,6 +15,10 @@ A lightweight, modular multi-agent system in Python + Streamlit that classifies 
 ---
 
 
+https://github.com/user-attachments/assets/7c00c5a7-3546-4304-8430-3533fe772c8e
+
+
+
 
 ## 📁 Project Structure
 
